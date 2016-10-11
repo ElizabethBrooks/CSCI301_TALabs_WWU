@@ -19,5 +19,5 @@ Scheme expressions, or S-Expressions for Symbolic Expressions, are composed of l
 
 ## Scheme Tips
 * The Scheme Programming section of WikiBooks has some very helpful and well written information and tips for creating symbolic expressions (s-expressions) in Scheme; https://en.wikibooks.org/wiki/Scheme_Programming 
-** There are several different ways to create lists, for example; https://en.wikibooks.org/wiki/Scheme_Programming/List_Operations
-** You may also define variables for later use in Scheme expressions; https://en.wikibooks.org/wiki/Scheme_Programming/Using_Variables (Links to an external site.)
+* There are several different ways to create lists, for example; https://en.wikibooks.org/wiki/Scheme_Programming/List_Operations
+* You may also define variables for later use in Scheme expressions; https://en.wikibooks.org/wiki/Scheme_Programming/Using_Variables (Links to an external site.)
