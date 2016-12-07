@@ -18,7 +18,7 @@ The primary programming activity in Scheme is the creation of recursive definiti
 Scheme expressions, or S-Expressions for Symbolic Expressions, are composed of lists or atoms. These expressions are used to construct recursive processes and manipulate recursive data-structures. Processes in Scheme use lists to represent function calls or collections of data. Primitive data types, or atoms include the following: boolean constants (t and f), numbers (integers, reals, and rationals), strings (e.g. “hello world!”), characters (e.g. #\c), and symbols (e.g. x, b11, sam).
 
 ## Scheme Tips
-* The Scheme Programming section of WikiBooks has some very helpful and well written information and tips for creating symbolic expressions (s-expressions) in Scheme; https://en.wikibooks.org/wiki/Scheme_Programming 
-* There are several different ways to create lists, for example; https://en.wikibooks.org/wiki/Scheme_Programming/List_Operations
-* You may also define variables for later use in Scheme expressions; https://en.wikibooks.org/wiki/Scheme_Programming/Using_Variables 
-* The following site offers a Scheme tutorial by UCSC that provides good descriptions and examples of common functions https://classes.soe.ucsc.edu/cmps112/Spring03/languages/scheme/SchemeTutorialA.html#functions
+* The Scheme Programming section of WikiBooks has some very helpful and well written information and tips for creating symbolic expressions (s-expressions) in Scheme: https://en.wikibooks.org/wiki/Scheme_Programming 
+* There are several different ways to create lists, for example: https://en.wikibooks.org/wiki/Scheme_Programming/List_Operations
+* You may also define variables for later use in Scheme expressions: https://en.wikibooks.org/wiki/Scheme_Programming/Using_Variables 
+* The following site offers a Scheme tutorial by UCSC that provides good descriptions and examples of common functions: https://classes.soe.ucsc.edu/cmps112/Spring03/languages/scheme/SchemeTutorialA.html#functions
