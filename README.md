@@ -1,5 +1,5 @@
 # CS301_WWU
-Files for CS 301 labs at WWU, Fall 2016.
+Syllabus for CS 301 labs at WWU, Fall 2016.
 
 ## Lab Objectives and Plan
 The final objective [of the course] is to acquire introductory level competence in functional programming, specically
